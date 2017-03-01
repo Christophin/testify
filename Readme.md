@@ -1,3 +1,6 @@
+This assignment tested our ability to refactor work.  The test is currently checking seperateConstructors.js since that is as far as I could go using only the things we have been taught in class. My final answer is in main.js, however, I taught myself some stuff that hasn't been taught in class yet and was therefore outside the scope of the assignment.
+
+
 Hi and welcome to team Gilded Rose.
 
 As you know, we are a small inn with a prime location in a prominent city ran
